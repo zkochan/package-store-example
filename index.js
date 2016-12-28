@@ -1,0 +1,1 @@
+console.log(require('pkg-with-dep/index.js').name)
