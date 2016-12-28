@@ -1,0 +1,3 @@
+../project
+  - registry.npmjs.org/dep/1.0.0
+  - registry.npmjs.org/pkg-with-dep/1.0.0
