@@ -1,0 +1,8 @@
+registry: https://registry.npmjs.org
+resolutions:
+  dep:
+    "*":
+      version: 1.0.0
+  pkg-with-dep:
+    ^1.0.0:
+      version: 1.0.0
